@@ -1,1 +1,1 @@
-This is a Single Page Portfolio Website developed in React. It does not use any other library.
+This is a Single Page Portfolio Website developed in React without any other library.
