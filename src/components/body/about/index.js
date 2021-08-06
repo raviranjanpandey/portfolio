@@ -13,9 +13,9 @@ const About = () => {
         </div>
         <div className="about-photo">
           <img
-            src={require("../../../assets/coding.png").default}
+            src="https://by3302files.storage.live.com/y4mjGGCy5_t4utzCbxPC6JOwkwAZ2OFc-SrLH3ldkRkpus_Y2ie8dcX8aJzx1qqAnIFrn3y-WaXpsSd_JoOg4_9EZmeBq7cBhAV3u6jSHDTcKIhWNFRqdiAUdGN2LL8Ksx9xQHAmeCfDOqZzvF-16hokj3_SnopT8uVQT9dBS5uG-zFZ20uZv6ot03_BrkibCCn?width=378&height=388&cropmode=none"
             className="picture"
-            alt="coding"
+            alt="profile"
           />
         </div>
       </div>
