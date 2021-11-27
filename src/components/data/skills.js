@@ -20,8 +20,8 @@ export const SkillsData = [
     type: "backend",
     list: [
       {
-        name: ".NET Core",
-        icon: <i class="devicon-dotnetcore-plain colored"></i>,
+        name: ".NET",
+        icon: <i class="devicon-dot-net-plain-wordmark colored"></i>,
       },
       {
         name: "AWS",
