@@ -28,8 +28,8 @@ export const SkillsData = [
         icon: <i class="devicon-amazonwebservices-original colored"></i>,
       },
       {
-        name: "Postgres",
-        icon: <i class="devicon-postgresql-plain colored"></i>,
+        name: "Azure",
+        icon: <i class="devicon-azure-plain-wordmark colored"></i>
       },
     ],
   },
