@@ -1,12 +1,12 @@
 export const SocialData = [
   {
     platform: "LinkedIn",
-    link: "https://www.linkedin.com/in/ravi-ranjan-pandey/",
+    link: "https://bit.ly/3ll0JfS",
     icon: require("../../assets/linkedin.png").default,
   },
   {
     platform: "Github",
-    link: "https://github.com/raviranjanpandey/eventful",
+    link: "https://bit.ly/3I8RWaw",
     icon: require("../../assets/github.png").default,
   }
 ];

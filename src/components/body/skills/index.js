@@ -10,7 +10,7 @@ const Skills = () => {
     <div className="skills">
       <Seperator />
       <label className="section-title">Skills</label>
-      <div className = "skills-container">
+      <div>
         {data.map((item)=>{
           return(
             <div className = "skills-section">

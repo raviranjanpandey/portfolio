@@ -13,6 +13,15 @@ const WorkCard = ({ item }) => {
         <div className="work-desc">
           <p>{item.work}</p>
         </div>
+        <div className="work-links">
+          {item.url && (
+            <a className="work-link" href={item.url}>
+              <div className="link-button">
+                <i class="fi-rr-globe"></i>Website
+              </div>
+            </a>
+          )}
+          </div>
       </div>
     </div>
   );

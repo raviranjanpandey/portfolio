@@ -13,6 +13,7 @@
 }
 .skill-name {
   font-size: 18px;
+  color: blue;
 }
 
 @media only screen and (max-width: 720px) {

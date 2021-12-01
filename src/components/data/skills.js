@@ -1,6 +1,6 @@
 export const SkillsData = [
   {
-    type: "frontend",
+    type: "Frontend",
     list: [
       {
         name: "ReactJS",
@@ -14,14 +14,18 @@ export const SkillsData = [
         name: "TypeScript",
         icon: <i class="devicon-typescript-plain colored"></i>,
       },
+      {
+        name: "C#",
+        icon: <i class="devicon-csharp-plain colored"></i>,
+      }
     ],
   },
   {
-    type: "backend",
+    type: "Backend",
     list: [
       {
         name: ".NET",
-        icon: <i class="devicon-dot-net-plain-wordmark colored"></i>,
+        icon: <i class="devicon-dot-net-plain colored"></i>,
       },
       {
         name: "AWS",
@@ -29,8 +33,16 @@ export const SkillsData = [
       },
       {
         name: "Azure",
-        icon: <i class="devicon-azure-plain-wordmark colored"></i>
+        icon: <i class="devicon-azure-plain colored"></i>
       },
+      {
+        name: "Postgres",
+        icon: <i class="devicon-postgresql-plain colored"></i>
+      },
+      {
+        name: "SQL Server",
+        icon: <i class="devicon-microsoftsqlserver-plain colored"></i>
+      }
     ],
   },
 ];

@@ -10,7 +10,7 @@ const Contact = () => {
       <label className="section-title">Contact</label>
       <div className="contact-container">
         <div className="contact-left">
-          <p>Let's get connected.</p>
+          <p>Contact me on linkedin</p>
           <SocialContact />
         </div>
         <div className="download">

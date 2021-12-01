@@ -7,13 +7,11 @@ const About = () => {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          Hello there, I am
-          <br /> <span className="info-name">Senior Software Engineer.</span>
-          <br /> I work to develop business solutions.
+          <br /> 5+ years experienced & result-oriented <span className="info-name">Senior Software Engineer,</span> skilled in leading the development of multiple commercially successful products from scratch, with active involvement throughout the development life cycle. Proficient at implementing core backend development tasks including 3rd party API integrations, REST API Development, website maintenance, etc. while working with multiple frameworks, software, Operating Systems & Programming languages. Adept at employing the Agile methodology of software development to lead teams & deliver high-quality products within the stipulated deadlines. Possess a passion to learn and work on the latest technologies. Provides leadership, training & feedback to ensure that teams perform to the best of their abilities & deliver consistently.
         </div>
         <div className="about-photo">
           <img
-            src="https://by3302files.storage.live.com/y4mjGGCy5_t4utzCbxPC6JOwkwAZ2OFc-SrLH3ldkRkpus_Y2ie8dcX8aJzx1qqAnIFrn3y-WaXpsSd_JoOg4_9EZmeBq7cBhAV3u6jSHDTcKIhWNFRqdiAUdGN2LL8Ksx9xQHAmeCfDOqZzvF-16hokj3_SnopT8uVQT9dBS5uG-zFZ20uZv6ot03_BrkibCCn?width=378&height=388&cropmode=none"
+            src="https://bit.ly/3I56kAy"
             className="picture"
             alt="profile"
           />
